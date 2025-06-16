@@ -16,12 +16,10 @@
 
 On a personal level, I am a pre-sociable human. I love to share knowledge with the tech community by speaking at conferences and tech meetups. I also love to get feedback on my projects. 
 
-- I am a Software Engineer / DevOps engineer specializing in Java and Golang technologies, Google Cloud Platform and AWS. 
-- I am an open-source enthusiast. 
-- I'm also a technical writer/blogger
-- I write software to pay my rent and for fun 
-- I am on a mission to become world class software developer and DevOps engineer
-- "Best Java developer" - Sam's mom
+I'm a passionate Site Reliability Engineer with a knack for solving complex infrastructure challenges. Over the years, I've built and maintained large-scale distributed systems, always focusing on the core problem at hand and delivering real value through smart automation. I excel at reducing operational overhead, implementing reliability practices, and making systems run faster and better. What sets me apart is my systematic approach to problem-solving, strong communication skills (whether I'm talking to engineers or business stakeholders), and my constant drive to learn and improve. I genuinely enjoy collaborating with teams and turning complex infrastructure challenges into elegant, scalable solutions.
+
+Github Repository: https://github.com/samuelbartels20
+Email: bartelssamuel20@gmail.com
 
 - 🔭 I’m currently working and investing in my self...💻 
 - 🌱 I’m currently building dev projects & cloud things... 
