@@ -42,13 +42,6 @@ I'm a passionate Site Reliability Engineer with a knack for solving complex infr
   <img src="https://github-readme-stats.vercel.app/api?username=samuelbartels20&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
 
-
-## Connect with me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/samuelbartels20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/samuelbartels20/" height="30" width="40" /></a>
-<a href="https://kojobartels.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="https://kojobartels.com" height="30" width="40" /></a>  
   
 
 
