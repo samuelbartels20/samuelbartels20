@@ -37,7 +37,6 @@ I'm a passionate Site Reliability Engineer with a knack for solving complex infr
 
 
 ## GitHub Stats
-[![Samuel Bartels' github activity graph](https://activity-graph.herokuapp.com/graph?username=samuelbartels20&theme=xcode)](https://git.io/samuelbartels20)
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelbartels20&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
